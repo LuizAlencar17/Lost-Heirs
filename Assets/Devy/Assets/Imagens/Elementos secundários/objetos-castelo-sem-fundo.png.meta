@@ -1,0 +1,1050 @@
+fileFormatVersion: 2
+guid: 08c4091cd491e21438b342b6718cf3ab
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: objetos-castelo-sem-fundo_0
+    21300002: objetos-castelo-sem-fundo_1
+    21300004: objetos-castelo-sem-fundo_2
+    21300006: objetos-castelo-sem-fundo_3
+    21300008: objetos-castelo-sem-fundo_4
+    21300010: objetos-castelo-sem-fundo_5
+    21300012: objetos-castelo-sem-fundo_6
+    21300014: objetos-castelo-sem-fundo_7
+    21300016: objetos-castelo-sem-fundo_8
+    21300018: objetos-castelo-sem-fundo_9
+    21300020: objetos-castelo-sem-fundo_10
+    21300022: objetos-castelo-sem-fundo_11
+    21300024: objetos-castelo-sem-fundo_12
+    21300026: objetos-castelo-sem-fundo_13
+    21300028: objetos-castelo-sem-fundo_14
+    21300030: objetos-castelo-sem-fundo_15
+    21300032: objetos-castelo-sem-fundo_16
+    21300034: objetos-castelo-sem-fundo_17
+    21300036: objetos-castelo-sem-fundo_18
+    21300038: objetos-castelo-sem-fundo_19
+    21300040: objetos-castelo-sem-fundo_20
+    21300042: objetos-castelo-sem-fundo_21
+    21300044: objetos-castelo-sem-fundo_22
+    21300046: objetos-castelo-sem-fundo_23
+    21300048: objetos-castelo-sem-fundo_24
+    21300050: objetos-castelo-sem-fundo_25
+    21300052: objetos-castelo-sem-fundo_26
+    21300054: objetos-castelo-sem-fundo_27
+    21300056: objetos-castelo-sem-fundo_28
+    21300058: objetos-castelo-sem-fundo_29
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_0
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 413
+        width: 246
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db6ad03772a4d1429169c7965ef617b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_1
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 838
+        width: 328
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a3bd7453e45d342892040f1f06f5e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 691
+        width: 321
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475210b110382194997534426ffbf943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 684
+        width: 293
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d1a918c5dd908439c54b76a4fbac7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_4
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 626
+        width: 170
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc67c2b0399880743a7b6ea36f1a3203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 613
+        width: 288
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37bfd49ebc38aa44b6c80af75439ad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 613
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de8b31636998094192cf47b8fbddf55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 613
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59faecb5b7374f4297452543bd5b659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 607
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbee81c086db48841b846ecb1be9e6c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_9
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 635
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b998673d76314654d977b9c8e8c05e89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 610
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1e74ed9113c2940b8fccb40c349de2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 611
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c62a78e35587e742afd5473404857e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 506
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dfa721054326d49bd89f9e61404178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 473
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0dbcc6057ae8e428180584efe1e9a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 434
+        width: 321
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe82db1521739b4793e499e3a79edcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 409
+        width: 148
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77b76217e0d5ca46bb60fc49a546a81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_16
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 419
+        width: 27
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87332c7b32b756445b84cb048e5cb77a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_17
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 340
+        width: 85
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fde829589571242a514c8423b73d21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_18
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 531
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa460794e6c69542a38f221644311ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_19
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 448
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce523b55e7269443bff151791d2d1e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 180
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac8e8f8c80353a4c87aa616763faa73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 323
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e59ed89892447f45bb7cee816997cc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_22
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 323
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e473cb2bd87c445aca7af554760890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 323
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a3454cd2fa3444195a1347545d44f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 323
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dc79f851aef3d45bdd31728e5b6146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 323
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be9c207ceb8185419334a43481e12d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_26
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 320
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2522764db145ae9469230844aefaaf99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_27
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 320
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8533daa4794148243bef25fbac9f26d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_28
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 320
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b787995d273a0448e090b2e281a0f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos-castelo-sem-fundo_29
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 320
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08534331a88669648878dd8a91982fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 66, y: -125}
+      - {x: 31, y: -125}
+      - {x: 31, y: -140}
+      - {x: 52, y: -182}
+      - {x: 120, y: -182}
+      - {x: 126, y: -169}
+      - {x: 126, y: -154}
+      - {x: 108, y: -138}
+    - - {x: 151, y: -102}
+      - {x: 151, y: -182}
+      - {x: 220, y: -182}
+      - {x: 222, y: -175}
+      - {x: 222, y: -159}
+      - {x: 170, y: -102}
+    - - {x: 276, y: -105}
+      - {x: 232, y: -142}
+      - {x: 232, y: -178}
+      - {x: 249, y: -182}
+      - {x: 302, y: -182}
+      - {x: 306, y: -179}
+      - {x: 306, y: -105}
+    - - {x: 371, y: -126}
+      - {x: 317, y: -145}
+      - {x: 317, y: -178}
+      - {x: 329, y: -182}
+      - {x: 395, y: -182}
+      - {x: 412, y: -159}
+      - {x: 412, y: -126}
+    - - {x: -551, y: -109}
+      - {x: -551, y: -179}
+      - {x: -459, y: -179}
+      - {x: -459, y: -119}
+      - {x: -465, y: -109}
+    - - {x: -445, y: -103}
+      - {x: -445, y: -179}
+      - {x: -250, y: -179}
+      - {x: -250, y: -103}
+    - - {x: -225, y: -106}
+      - {x: -228, y: -116}
+      - {x: -228, y: -177}
+      - {x: -223, y: -179}
+      - {x: -137, y: -179}
+      - {x: -134, y: -175}
+      - {x: -134, y: -118}
+      - {x: -138, y: -106}
+    - - {x: -122, y: -103}
+      - {x: -129, y: -126}
+      - {x: -129, y: -179}
+      - {x: -34, y: -179}
+      - {x: -34, y: -108}
+      - {x: -41, y: -103}
+    - - {x: 520, y: -154}
+      - {x: 518, y: -156}
+      - {x: 518, y: -160}
+      - {x: 520, y: -162}
+      - {x: 522, y: -162}
+      - {x: 524, y: -160}
+      - {x: 524, y: -156}
+      - {x: 522, y: -154}
+    - - {x: -561, y: -50}
+      - {x: -600, y: -51}
+      - {x: -600, y: -100}
+      - {x: -490, y: -100}
+      - {x: -418, y: -88}
+      - {x: -418, y: -57}
+      - {x: -421, y: -50}
+    - - {x: -457, y: -96}
+      - {x: -454, y: -95}
+      - {x: -454, y: -92}
+      - {x: -457, y: -91}
+      - {x: -459, y: -93}
+    - - {x: 81, y: 92}
+      - {x: -20, y: 92}
+      - {x: -41, y: 82}
+      - {x: -41, y: -93}
+      - {x: 107, y: -93}
+      - {x: 110, y: -85}
+      - {x: 111, y: -80}
+      - {x: 111, y: 64}
+    - - {x: 295, y: 151}
+      - {x: 301, y: 112}
+      - {x: 311, y: 104}
+      - {x: 325, y: 113}
+      - {x: 335, y: 247}
+      - {x: 335, y: 317}
+      - {x: 149, y: 317}
+      - {x: 110, y: 314}
+      - {x: 110, y: -89}
+      - {x: 303, y: -89}
+      - {x: 288, y: 61}
+      - {x: 292, y: 171}
+      - {x: 291, y: 183}
+    - - {x: 305, y: 104}
+      - {x: 305, y: -83}
+      - {x: 332, y: -83}
+      - {x: 336, y: -78}
+      - {x: 336, y: 104}
+    - - {x: 437, y: 104}
+      - {x: 435, y: 103}
+      - {x: 435, y: -83}
+      - {x: 461, y: -83}
+      - {x: 465, y: -68}
+      - {x: 465, y: 66}
+      - {x: 463, y: 104}
+    - - {x: -401, y: 94}
+      - {x: -401, y: -68}
+      - {x: -315, y: -68}
+      - {x: -76, y: 32}
+      - {x: -76, y: 94}
+    - - {x: 533, y: 22}
+      - {x: 513, y: 22}
+      - {x: 500, y: 10}
+      - {x: 498, y: 5}
+      - {x: 498, y: -54}
+      - {x: 553, y: -54}
+      - {x: 554, y: -50}
+      - {x: 554, y: 6}
+      - {x: 548, y: 13}
+    - - {x: -474, y: 87}
+      - {x: -474, y: -24}
+      - {x: -467, y: -28}
+      - {x: -458, y: -29}
+      - {x: -416, y: -29}
+      - {x: -416, y: 85}
+      - {x: -418, y: 87}
+    - - {x: -550, y: 84}
+      - {x: -550, y: 68}
+      - {x: -544, y: 17}
+      - {x: -536, y: 4}
+      - {x: -497, y: 4}
+      - {x: -492, y: 5}
+      - {x: -492, y: 85}
+      - {x: -546, y: 85}
+    - - {x: 543, y: 104}
+      - {x: 512, y: 104}
+      - {x: 498, y: 99}
+      - {x: 498, y: 40}
+      - {x: 504, y: 32}
+      - {x: 518, y: 29}
+      - {x: 544, y: 29}
+      - {x: 554, y: 38}
+      - {x: 554, y: 70}
+      - {x: 547, y: 99}
+    - - {x: 204, y: 103}
+      - {x: 207, y: 104}
+      - {x: 208, y: 103}
+      - {x: 210, y: 103}
+      - {x: 207, y: 103}
+      - {x: 206, y: 104}
+    - - {x: -7, y: 164}
+      - {x: -59, y: 164}
+      - {x: -62, y: 159}
+      - {x: -62, y: 132}
+      - {x: -52, y: 106}
+      - {x: -45, y: 105}
+      - {x: 3, y: 105}
+      - {x: 7, y: 110}
+      - {x: 7, y: 139}
+      - {x: 3, y: 161}
+    - - {x: 204, y: 110}
+      - {x: 204, y: 112}
+      - {x: 206, y: 117}
+      - {x: 206, y: 118}
+      - {x: 205, y: 121}
+      - {x: 204, y: 119}
+      - {x: 207, y: 116}
+      - {x: 204, y: 110}
+      - {x: 203, y: 109}
+    - - {x: 28, y: 155}
+      - {x: 27, y: 154}
+      - {x: 27, y: 136}
+      - {x: 57, y: 108}
+      - {x: 84, y: 108}
+      - {x: 93, y: 110}
+      - {x: 93, y: 131}
+      - {x: 60, y: 155}
+    - - {x: -515, y: 136}
+      - {x: -525, y: 136}
+      - {x: -526, y: 133}
+      - {x: -526, y: 112}
+      - {x: -520, y: 109}
+      - {x: -515, y: 109}
+      - {x: -513, y: 113}
+      - {x: -513, y: 127}
+      - {x: -514, y: 135}
+    - - {x: -487, y: 175}
+      - {x: -487, y: 123}
+      - {x: -470, y: 111}
+      - {x: -202, y: 111}
+      - {x: -195, y: 134}
+      - {x: -195, y: 175}
+    - - {x: -133, y: 156}
+      - {x: -151, y: 156}
+      - {x: -176, y: 138}
+      - {x: -176, y: 117}
+      - {x: -174, y: 114}
+      - {x: -164, y: 111}
+      - {x: -142, y: 111}
+      - {x: -138, y: 114}
+      - {x: -132, y: 135}
+      - {x: -132, y: 155}
+    - - {x: -95, y: 156}
+      - {x: -100, y: 156}
+      - {x: -130, y: 140}
+      - {x: -130, y: 119}
+      - {x: -120, y: 111}
+      - {x: -100, y: 111}
+      - {x: -93, y: 128}
+      - {x: -86, y: 144}
+      - {x: -86, y: 149}
+    - - {x: 385, y: 315}
+      - {x: 363, y: 299}
+      - {x: 363, y: 148}
+      - {x: 365, y: 124}
+      - {x: 531, y: 124}
+      - {x: 537, y: 135}
+      - {x: 537, y: 312}
+      - {x: 536, y: 315}
+    - - {x: 61, y: 286}
+      - {x: -222, y: 286}
+      - {x: -222, y: 182}
+      - {x: 64, y: 182}
+      - {x: 71, y: 185}
+      - {x: 75, y: 213}
+      - {x: 75, y: 269}
+    - - {x: -245, y: 290}
+      - {x: -544, y: 290}
+      - {x: -557, y: 283}
+      - {x: -559, y: 269}
+      - {x: -559, y: 197}
+      - {x: -543, y: 189}
+      - {x: -252, y: 189}
+      - {x: -234, y: 206}
+      - {x: -234, y: 256}
+      - {x: -238, y: 271}
+    - - {x: 461, y: 310}
+      - {x: 464, y: 311}
+      - {x: 464, y: 314}
+      - {x: 461, y: 315}
+      - {x: 459, y: 313}
+    - - {x: 270, y: 370}
+      - {x: 270, y: 364}
+      - {x: 279, y: 360}
+      - {x: 350, y: 341}
+      - {x: 512, y: 336}
+      - {x: 600, y: 336}
+      - {x: 600, y: 370}
+    - - {x: 392, y: 343}
+      - {x: 395, y: 344}
+      - {x: 395, y: 347}
+      - {x: 392, y: 348}
+      - {x: 390, y: 346}
+    - - {x: 559, y: 348}
+      - {x: 556, y: 351}
+      - {x: 552, y: 351}
+      - {x: 538, y: 350}
+      - {x: 565, y: 348}
+    - - {x: 242, y: 351}
+      - {x: 244, y: 349}
+      - {x: 247, y: 350}
+      - {x: 247, y: 353}
+      - {x: 245, y: 355}
+      - {x: 242, y: 354}
+    - - {x: 143, y: 355}
+      - {x: 144, y: 352}
+      - {x: 147, y: 352}
+      - {x: 149, y: 354}
+      - {x: 148, y: 357}
+      - {x: 145, y: 357}
+    - - {x: 200, y: 362}
+      - {x: 198, y: 360}
+      - {x: 198, y: 358}
+      - {x: 200, y: 356}
+      - {x: 202, y: 356}
+      - {x: 204, y: 358}
+      - {x: 204, y: 360}
+      - {x: 202, y: 362}
+    - - {x: 87, y: 357}
+      - {x: 90, y: 358}
+      - {x: 90, y: 361}
+      - {x: 87, y: 362}
+      - {x: 85, y: 360}
+    - - {x: 117, y: 370}
+      - {x: 115, y: 368}
+      - {x: 115, y: 366}
+      - {x: 118, y: 363}
+      - {x: 120, y: 363}
+      - {x: 122, y: 365}
+      - {x: 122, y: 368}
+      - {x: 120, y: 370}
+    - - {x: 142, y: 366}
+      - {x: 143, y: 363}
+      - {x: 148, y: 363}
+      - {x: 150, y: 365}
+      - {x: 149, y: 368}
+      - {x: 144, y: 368}
+    - - {x: 192, y: 366}
+      - {x: 193, y: 363}
+      - {x: 200, y: 363}
+      - {x: 202, y: 365}
+      - {x: 201, y: 368}
+      - {x: 194, y: 368}
+    - - {x: 214, y: 370}
+      - {x: 212, y: 368}
+      - {x: 212, y: 366}
+      - {x: 214, y: 364}
+      - {x: 216, y: 364}
+      - {x: 218, y: 366}
+      - {x: 218, y: 368}
+      - {x: 216, y: 370}
+    physicsShape: []
+    bones: []
+    spriteID: d790a6480122fab47b02df35c869f697
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
